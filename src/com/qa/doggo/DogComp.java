@@ -1,10 +1,20 @@
 package com.qa.doggo;
 
+import java.util.Scanner;
+
 public class DogComp {
-
+	
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		Scanner in = new Scanner(System.in);//pos = position
+		int x = in.nextInt();
+		for (int i = 0;  i < 100; i++) {
+			
+			
+			
+		}
+		
 	}
 
 }
